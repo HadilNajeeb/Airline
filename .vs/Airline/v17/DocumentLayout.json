@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Hadeel\\Desktop\\Airline\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hadeel\\Desktop\\Airline\\AirLineEntityFramework\\Context\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AirLineEntityFramework\\Context\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hadeel\\Desktop\\Airline\\AirLineEntityFramework\\Model\\Baggage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AirLineEntityFramework\\Model\\Baggage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hadeel\\Desktop\\Airline\\AirLineEntityFramework\\Model\\AirportOfficer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AirLineEntityFramework\\Model\\AirportOfficer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hadeel\\Desktop\\Airline\\AirLineEntityFramework\\Model\\AirPort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AirLineEntityFramework\\Model\\AirPort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hadeel\\Desktop\\Airline\\AirLineEntityFramework\\Model\\AirLine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AirLineEntityFramework\\Model\\AirLine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hadeel\\Desktop\\Airline\\AirLineEntityFramework\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AirLineEntityFramework\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Hadeel\\Desktop\\Airline\\AirLineEntityFramework\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AirLineEntityFramework\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:01:17.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Baggage.cs",
+              "DocumentMoniker": "C:\\Users\\Hadeel\\Desktop\\Airline\\AirLineEntityFramework\\Model\\Baggage.cs",
+              "RelativeDocumentMoniker": "AirLineEntityFramework\\Model\\Baggage.cs",
+              "ToolTip": "C:\\Users\\Hadeel\\Desktop\\Airline\\AirLineEntityFramework\\Model\\Baggage.cs",
+              "RelativeToolTip": "AirLineEntityFramework\\Model\\Baggage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:01:14.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AirportOfficer.cs",
+              "DocumentMoniker": "C:\\Users\\Hadeel\\Desktop\\Airline\\AirLineEntityFramework\\Model\\AirportOfficer.cs",
+              "RelativeDocumentMoniker": "AirLineEntityFramework\\Model\\AirportOfficer.cs",
+              "ToolTip": "C:\\Users\\Hadeel\\Desktop\\Airline\\AirLineEntityFramework\\Model\\AirportOfficer.cs",
+              "RelativeToolTip": "AirLineEntityFramework\\Model\\AirportOfficer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:01:12.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AirPort.cs",
+              "DocumentMoniker": "C:\\Users\\Hadeel\\Desktop\\Airline\\AirLineEntityFramework\\Model\\AirPort.cs",
+              "RelativeDocumentMoniker": "AirLineEntityFramework\\Model\\AirPort.cs",
+              "ToolTip": "C:\\Users\\Hadeel\\Desktop\\Airline\\AirLineEntityFramework\\Model\\AirPort.cs",
+              "RelativeToolTip": "AirLineEntityFramework\\Model\\AirPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:01:09.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AirLine.cs",
+              "DocumentMoniker": "C:\\Users\\Hadeel\\Desktop\\Airline\\AirLineEntityFramework\\Model\\AirLine.cs",
+              "RelativeDocumentMoniker": "AirLineEntityFramework\\Model\\AirLine.cs",
+              "ToolTip": "C:\\Users\\Hadeel\\Desktop\\Airline\\AirLineEntityFramework\\Model\\AirLine.cs",
+              "RelativeToolTip": "AirLineEntityFramework\\Model\\AirLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:01:03.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

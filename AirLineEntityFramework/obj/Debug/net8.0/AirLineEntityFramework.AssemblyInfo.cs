@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AirLineEntityFramework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b897fcd7f309c96484cad4fe9ac8c85a2a2aedc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ebbfa37a9ee528a43787775a668eb308cc6ef44")]
 [assembly: System.Reflection.AssemblyProductAttribute("AirLineEntityFramework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AirLineEntityFramework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
